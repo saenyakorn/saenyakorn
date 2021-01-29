@@ -8,4 +8,4 @@ Recently I plan to build my personal website and to develope some application fo
 
 [![Saenyakorn's github stats](https://github-readme-stats.vercel.app/api?username=saenyakorn&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Saenyakorn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@saenyakorn)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Saenyakorn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@saenyakorn&v=2)](https://github.com/anuraghazra/github-readme-stats)
